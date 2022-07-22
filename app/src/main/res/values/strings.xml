@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OcrWithSpeechOutput</string>
+    <string name="start_reading">start reading</string>
+</resources>
